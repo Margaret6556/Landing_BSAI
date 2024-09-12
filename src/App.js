@@ -1,7 +1,6 @@
 export default function App() {
   return (
     <div>
-      <div className="Landing page title"> </div>
       <h1>Are You Ready to Take Control of Your Respiratory Health? </h1>
       <h2>Real-story: How BreathSync AI Can Save Me During an Asthma Attack</h2>
       <div className="story">
